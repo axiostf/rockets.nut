@@ -1,7 +1,7 @@
 # rockets.nut
 
 VScript for spawning rockets that collide with players.
-Place `rockets.nut` folder in `tf\scripts\vscripts` folder to get started.
+Place `rockets.nut` file in `tf\scripts\vscripts` folder to get started.
 Prefab with all necessary entities and examples is included (`rockets_script_examples_prefab.vmf`).
 
 ## Using the script
